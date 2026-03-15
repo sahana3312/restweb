@@ -29,7 +29,7 @@ Publish the website in Localhost.
 
 ## PROGRAM:
 
-home.html
+Home.html
 
 <html>
     <head>
@@ -64,7 +64,7 @@ home.html
     </body>
 </html>
 
-home.css
+Home.css
 
 body{
     background-image: url("bg.jpg");
@@ -149,7 +149,7 @@ a:hover{
     padding: 10px;
 }
 
-menu.html
+Menu.html
 
 <html>
 <head>
@@ -213,7 +213,7 @@ menu.html
 </body>
 </html>
 
-menu.css
+Menu.css
 
 body{
     background-image: url("menubg.jpg");
@@ -281,7 +281,7 @@ body{
     padding: 10px;
 }
 
-admin.html
+Admin.html
 
 <html>
 <head>
@@ -332,7 +332,7 @@ admin.html
 </body>
 </html>
 
-admin.css
+Admin.css
 
 body{
     background-image: url("adminbg.jpg");
@@ -440,7 +440,7 @@ contact.html
 </body>
 </html>
 
-contact.css
+Contact.css
 
 body {
     height: 100vh;
