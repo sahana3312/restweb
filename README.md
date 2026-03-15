@@ -28,8 +28,8 @@ Validate the HTML code.
 Publish the website in Localhost.
 
 ## PROGRAM:
-
-Home.html
+```
+home.html
 
 <html>
     <head>
@@ -64,7 +64,7 @@ Home.html
     </body>
 </html>
 
-Home.css
+home.css
 
 body{
     background-image: url("bg.jpg");
@@ -149,7 +149,7 @@ a:hover{
     padding: 10px;
 }
 
-Menu.html
+menu.html
 
 <html>
 <head>
@@ -213,7 +213,7 @@ Menu.html
 </body>
 </html>
 
-Menu.css
+menu.css
 
 body{
     background-image: url("menubg.jpg");
@@ -281,7 +281,7 @@ body{
     padding: 10px;
 }
 
-Admin.html
+admin.html
 
 <html>
 <head>
@@ -332,7 +332,7 @@ Admin.html
 </body>
 </html>
 
-Admin.css
+admin.css
 
 body{
     background-image: url("adminbg.jpg");
@@ -440,7 +440,7 @@ contact.html
 </body>
 </html>
 
-Contact.css
+contact.css
 
 body {
     height: 100vh;
@@ -507,7 +507,7 @@ body {
     
 }
 
-
+```
 ## OUTPUT:
 
 ![alt text](image.png)
