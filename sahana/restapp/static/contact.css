@@ -1,0 +1,65 @@
+
+body {
+    height: 100vh;
+    background-image: url("contactbg.jpg");
+    background-size: cover;
+    background-position: center;
+    color: rgb(170, 207, 6);
+}
+
+.nav{
+    position: absolute;
+    top: 10px;
+    right: 300x;
+    background-color:rgb(54, 8, 16);
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+.nav{
+    position: absolute;
+    top: 10px;
+    right: 30px;
+}
+
+.nav a{
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 10px 15px;
+    background-color:  rgb(58, 5, 14);
+    color: rgb(218, 194, 194);
+    font-size: 20px;
+}
+
+.contact {
+    padding: 70px 60px;
+}
+
+.contact h1 {
+    font-size: 90px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 30px;
+    
+}
+
+.details h2 {
+    font-size: 35px;
+    margin-top: 20px;
+    color: rgb(13, 139, 207);
+}
+
+.details p {
+    font-size: 30px;
+    line-height: 2;
+    margin-top: 2px;
+}
+.footer{
+    background-color: rgb(63, 6, 6);
+    text-align: center;
+    color:rgb(65, 63, 8);
+    padding:10px;
+    bottom: 0;
+    width: 100%;
+    position:fixed;
+    
+}

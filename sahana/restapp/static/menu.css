@@ -1,0 +1,65 @@
+body{
+    background-image: url("menubg.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: Georgia, serif;
+}
+
+
+.nav{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+.nav a{
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 10px 15px;
+    background-color:  rgb(86, 6, 19);
+    color: WHITE;
+    font-size: 16px;
+}
+
+
+.menu{
+    position: absolute;
+    top: 150px;
+    text-align: center;
+    left: 900px;
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+}
+
+
+.container{
+    position: relative;
+    top: 260px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+.list{
+    background-color: rgb(200, 186, 35);
+    padding: 15px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.list img{
+    width: 200px;
+    height: 250px;
+    border-radius: 15px;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #4f0404; 
+    color:rgb(77, 81, 23); 
+    text-align: center;
+    font-family: Arial, sans-serif; 
+    padding: 10px;
+}
